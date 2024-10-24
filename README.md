@@ -5,10 +5,10 @@
 
 ## About me
 
-- 👩🏽‍💻 I am an anthropologist with a focus on data science
-- 📊 Currently working as a market research analyst
+- 👩🏽‍💻 I am an anthropologist with a strong interest for data analysis and archives.
+- 📊 Currently working as a market research analyst.
 - 🔭 My research interests include social movements, gender and body studies, representations on social media and consumption trends.
-- 🤖 Learning Python and SQL
+- 🤖 Learning Python and SQL.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
